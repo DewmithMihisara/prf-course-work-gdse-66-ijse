@@ -48,7 +48,7 @@ The Student Management System is a Java-based console application that allows us
 
 ## Screenshots
 
-![Screenshot 2023-07-25 at 09 52 41](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/453be3df-c77e-42e7-b80d-88096e25e989) 
+<img>![Screenshot 2023-07-25 at 09 52 41](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/453be3df-c77e-42e7-b80d-88096e25e989) 
 
 ![Screenshot 2023-07-25 at 09 54 33](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/dead03a5-9b9d-417d-b187-5bbc4a96940e)
 
