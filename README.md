@@ -20,22 +20,22 @@ The Student Management System is a Java-based console application that allows us
 
 1. Clone the repository to your local machine using the following command:
 
-   ```sh
+   ```bash
    git clone https://github.com/DewmithMihisara/MyPortfolio.git
    ```
 2. Navigate to the project directory:
 
-   ```sh
+   ```bash
    cd student-management-system
    ```
 3. Compile the Java code:
 
-   ```sh
+   ```bash
    javac Mark4.java
    ```
 5. Run the application:
 
-   ```sh
+   ```bash
    java Mark4
    ```
 ## Usage
@@ -48,7 +48,13 @@ The Student Management System is a Java-based console application that allows us
 
 ## Screenshots
 
+![Screenshot 2023-07-25 at 09 52 41](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/453be3df-c77e-42e7-b80d-88096e25e989) 
 
+![Screenshot 2023-07-25 at 09 54 33](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/dead03a5-9b9d-417d-b187-5bbc4a96940e)
+
+![Screenshot 2023-07-25 at 09 59 18](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/f1187401-a7b2-48bc-adfa-9d69ff3dd4ee)
+
+![Screenshot 2023-07-25 at 09 53 10](https://github.com/DewmithMihisara/prf-course-work-gdse-66-ijse/assets/124574193/26bd3847-3ea0-4de8-847f-d190ec37db44)
 
 ## Acknowledgments
 
